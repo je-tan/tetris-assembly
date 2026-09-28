@@ -1,6 +1,6 @@
 # Tetris in MIPS Assembly
 
-A Tetris game implemented in **MIPS Assembly** and designed to run using the **MARS (MIPS Assembler and Runtime Simulator)**.
+A Tetris game implemented in **MIPS Assembly** and designed to run using **MARS (MIPS Assembler and Runtime Simulator)**.
 
 ## Setup
 
