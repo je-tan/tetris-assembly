@@ -6,9 +6,9 @@ A Tetris game implemented in **MIPS Assembly** and designed to run using **MARS 
 
 ### 1. Download MARS
 
-Download **MARS 4.5.1** from the official release page:
+Download **MARS** from the official release page:
 
-[Download MARS 4.5.1](https://github.com/dpetersanderson/MARS/releases/tag/v.4.5.1)
+[Download MARS](https://github.com/dpetersanderson/MARS)
 
 ### 2. Open the Project
 
